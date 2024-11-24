@@ -55,7 +55,7 @@
         <div class="sideBar">
           <div class="info">
             <div>
-              Mobile Number: <span>{{ user.Mobilenumber }}</span>
+              Mobile Numberxx: <span>{{ user.Mobilenumber }}</span>
             </div>
             <div>
               Email: <span>{{ user.email }}</span>
