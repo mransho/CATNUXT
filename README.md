@@ -1,7 +1,6 @@
 # CAT
 
 <<<<<<< Latest version of cat before I make it nuxt and tailwind
-ssssccccc
 =======
 
 ## Project setup
