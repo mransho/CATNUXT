@@ -78,7 +78,7 @@
               <img :src="user.ProfileImage" alt="" />
             </div>
             <div @click="clickNewPost()" class="cont">
-              What's on your mind, {{ user.FirstName }}?
+              What's on your mind xx, {{ user.FirstName }}?
             </div>
             <!-- <textarea
               class="newPostTextarea"
