@@ -46,7 +46,7 @@
           </div>
 
           <div class="profileName line_under Name_acc">
-            {{ user.FirstName }} {{ user.Surname }}
+            xx {{ user.FirstName }} {{ user.Surname }}
           </div>
         </div>
       </div>
